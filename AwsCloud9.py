@@ -1,4 +1,4 @@
-'''
+
 print("Hello, World")
 print("Python has three numeric types: int, float, and complex")
 
@@ -141,7 +141,6 @@ elif userReply == "copy":
 else:
     print("Thank you, please come again.")
     
-'''
 
 print("Welcome to Guess the Number!")
 print("The rules are simple. I will think of a number, and you will try to guess it.")
